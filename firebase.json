@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/nobel-prize-winners",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
