@@ -33,10 +33,12 @@ ng serve
 After installation you can see data displaying on the screen
 - Check Nobel prize winners by sorting based on year or category.
 
-<img src="images/Screenshot%20(49).png">
-<img src="images/Screenshot%20(50).png">
-<img src="images/Screenshot%20(51).png">
-<img src="images/Screenshot%20(52).png">
+<img src="images/Screenshot%20(65).png">
+<img src="images/Screenshot%20(66).png">
+<img src="images/Screenshot%20(67).png">
+<img src="images/Screenshot%20(68).png">
+
+[Download Sample Video](https://github.com/vishalsripathi/nobel-prize-winners/blob/master/src/assets/video/screen-capture.webm?raw=true)
 
 
 ## Built With
