@@ -13,7 +13,7 @@ export class WinnersService implements OnInit {
   public winnersList(): Observable<WinnerResults[]> {
     return this.http
       .get<{ prizes: WinnersInterface[] }>(
-        'http://api.nobelprize.org/v1/prize.json'
+        'https://api.nobelprize.org/v1/prize.json'
       )
       .pipe(
         map((data) => {
